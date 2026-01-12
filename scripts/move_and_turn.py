@@ -64,4 +64,4 @@ try:
 except rospy.ROSInterruptException:
     sys.exit()
 
-rospy.loginfo("Started move_and_turn node")
+# comment
